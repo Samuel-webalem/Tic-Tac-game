@@ -1,0 +1,11 @@
+D:\education\visual\c#\Tic-tak game\bin\Debug\netcoreapp2.2\Tic-tak game.deps.json
+D:\education\visual\c#\Tic-tak game\bin\Debug\netcoreapp2.2\Tic-tak game.runtimeconfig.json
+D:\education\visual\c#\Tic-tak game\bin\Debug\netcoreapp2.2\Tic-tak game.runtimeconfig.dev.json
+D:\education\visual\c#\Tic-tak game\bin\Debug\netcoreapp2.2\Tic-tak game.dll
+D:\education\visual\c#\Tic-tak game\bin\Debug\netcoreapp2.2\Tic-tak game.pdb
+D:\education\visual\c#\Tic-tak game\obj\Debug\netcoreapp2.2\Tic-tak game.csproj.CoreCompileInputs.cache
+D:\education\visual\c#\Tic-tak game\obj\Debug\netcoreapp2.2\Tic-tak game.AssemblyInfoInputs.cache
+D:\education\visual\c#\Tic-tak game\obj\Debug\netcoreapp2.2\Tic-tak game.AssemblyInfo.cs
+D:\education\visual\c#\Tic-tak game\obj\Debug\netcoreapp2.2\Tic-tak game.dll
+D:\education\visual\c#\Tic-tak game\obj\Debug\netcoreapp2.2\Tic-tak game.pdb
+D:\education\visual\c#\Tic-tak game\obj\Debug\netcoreapp2.2\Tic-tak game.csprojAssemblyReference.cache
